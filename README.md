@@ -57,3 +57,5 @@ label ini diberikan kepada seluruh informasi yang berhubungan dengan nama negara
 15.	EMAIL
 label ini diberikan kepada seluruh informasi yang berhubungan dengan email. contoh: abc@gmail.com, blabla@digital.com, dst
 
+Untuk weights model dapat diakses pada
+https://drive.google.com/file/d/15O2x4-RsNikbdu_7K-p71nRAlYzG2bQL/view?usp=sharing
