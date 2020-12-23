@@ -8,7 +8,9 @@ Referensi: https://yudiwbs.wordpress.com/2018/03/29/ner-named-entity-recognition
 
 
 PRETRAINED MODEL
-	Model yang sudah dilakukan pelatihan oleh penulis adalah hasil pekerjaan dengan tim. Model tersebut sudah memuat deteksi pada 15 entitas yaitu:
+
+Model yang sudah dilakukan pelatihan oleh penulis adalah hasil pekerjaan dengan tim. Model tersebut sudah memuat deteksi pada 15 entitas yaitu:
+
 1.	PANJANG
 label ini diberikan kepada seluruh informasi yang berhubungan dengan panjang, jarak dan tinggi. sebagai contoh: 
 1 meter, 1 cm, 2 mm, dua meter, 3 sentimeter, 3 senti meter, dll.
