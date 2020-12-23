@@ -1,0 +1,8 @@
+Dibuat pada Desember 2020.
+
+Named Entity Recognition Bahasa Indonesia ini dibuat dengan menggunakan package/library Anago versi 1.0.8
+Package lain yang dibutuhkan:
+-numpy versi 1.16.3
+-tensorflow versi 1.13.1
+-scikit-learn versi 0.21.2
+-keras versi 2.2.4
